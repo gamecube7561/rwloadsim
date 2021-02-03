@@ -22,6 +22,8 @@ If you think of a bit of bash and SQL, a dose of PL/SQL, a nip of C or Java, a f
 a dash of awk, a grain of sed plus a few drops of secret sauce and put it all into one tool, you will have an idea about what rwloadsim is.
 In its core, it is a programming language that takes a bit of each of these known tools and programming languages and integrates them into one.
 
+The tool was recently [announced on the Oracle database blog](https://blogs.oracle.com/database/rwploadsim-oracle-db-performance-simluator).
+
 As a very small example, this code will display rows from the EMP table
 that you probably have used before.
 If the following is in a file called emp.rwl
