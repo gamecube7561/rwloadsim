@@ -4,6 +4,7 @@ The RWP*Load Simulator is a tool developed by the Real World Performance group a
 While it on one side nicely fills the somewhat void space between the Oracle database,
 Linux scripting, and programming in e.g. C or Java,
 it also bridges a bit of the way into complex benchmarking tools.
+It was recently [announced on the Oracle database blog](https://blogs.oracle.com/database/rwploadsim-oracle-db-performance-simluator).
 
 If you ever had a need to do any of these:
 
@@ -21,8 +22,6 @@ you are likely to find rwloadsim to suit you well.
 If you think of a bit of bash and SQL, a dose of PL/SQL, a nip of C or Java, a fragment of Oracle Call Interface, 
 a dash of awk, a grain of sed plus a few drops of secret sauce and put it all into one tool, you will have an idea about what rwloadsim is.
 In its core, it is a programming language that takes a bit of each of these known tools and programming languages and integrates them into one.
-
-The tool was recently [announced on the Oracle database blog](https://blogs.oracle.com/database/rwploadsim-oracle-db-performance-simluator).
 
 As a very small example, this code will display rows from the EMP table
 that you probably have used before.
