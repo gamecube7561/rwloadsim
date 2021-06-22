@@ -13,7 +13,7 @@ and integrates them into one.
 
 ## Getting the RWP\*Load Simulator
 
-The tool is available at [https://github.com/oracle/rwloadsim](https://github.com/oracle/rwloadsim) where
+The tool is available at [https://github.com/oracle/rwloadsim](https://github.com/oracle/rwloadsim/tree/2.3.5) where
 you will find both sources and binary distributions.
 
 ## RWP\*Load Simulator users guide
